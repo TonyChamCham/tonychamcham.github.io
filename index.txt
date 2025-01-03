@@ -1,11 +1,11 @@
-Jack - personal portfolio
+Antony Champane - personal portfolio
 
-# HEDER
+# HEADER
 
-Jack.
+Antony Champane
 
 En
-Ar
+Fr
 
 aria-label = Change Theme
 title = Change Theme
@@ -23,7 +23,7 @@ Contact.
 
 # HERO
 
-alt = A man in a blue shirt with a happy expression
+alt = A dashboard with data analytics widgets linked to Google GA4
 
 We Design & Build Creative Products
 
